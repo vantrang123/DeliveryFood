@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\components",
+    "\\app\\config",
+    "\\app\\images",
+    "\\app\\navigation",
+    "\\app\\store",
+    "\\app\\store\\actions",
+    "\\app\\store\\reducers",
+    "\\assets"
+  ],
+  "SelectedNode": "\\app\\store\\actions\\login_action.js",
+  "PreviewInSolutionExplorer": false
+}
